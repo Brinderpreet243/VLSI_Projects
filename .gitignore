@@ -1,0 +1,28 @@
+# Vivado generated files
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+xsim.dir/
+.Xil/
+
+# Simulation work libraries
+work/
+
+# OpenLane run outputs
+runs/
+
+# Build artifacts
+*.bit
+*.dcp
+*.rpt
+
+# C compiled binaries
+*.exe
+*.out
+*.o
+
+# OS files
+Thumbs.db
+.DS_Store
