@@ -7,6 +7,7 @@ A collection of digital VLSI design projects covering the complete RTL-to-GDSII 
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 1 | [Full Adder ASIC Flow](./Full_Adder_ASIC_Flow) | Optimized 1-bit Full Adder with complete RTL-to-GDSII flow | Done |
+| 2 | [Dual-Port RAM](./Dual_Port_RAM) | Parameterized synchronous dual-port RAM with collision arbitration and self-checking SystemVerilog testbench | Done |
 
 ## Tools Used
 - **RTL Design**: Verilog, SystemVerilog
